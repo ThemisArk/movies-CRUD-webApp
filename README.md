@@ -7,7 +7,7 @@ A simple web application built with ASP.NET Core MVC for managing a movie databa
 - **Add Movies**: Add new movie records to the database.
 - **View Movies**: Display a list of movies with their details.
 - **Update Movies**: Edit movie information.
-- **Delete Movies**: Remove movies from the database.
+- **Delete Movies**: Remove movies from the database (Hard delete).
 
 ## Tech Stack
 
