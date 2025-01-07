@@ -11,6 +11,6 @@ A simple web application built with ASP.NET Core MVC for managing a movie databa
 
 ## Tech Stack
 
-- **Backend**: C#, ASP.NET Core MVC
-- **Database**: SQL Server / SQLite (based on your implementation)
-- **Frontend**: HTML, CSS, JavaScript (basic UI)
+- **Backend**: C#, ASP.NET Core MVC, EFCore
+- **Database**: MSSQL
+- **Frontend**: HTML, Razor
